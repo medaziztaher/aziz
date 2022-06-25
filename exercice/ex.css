@@ -1,0 +1,46 @@
+.navbar{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    background-color:aqua;
+    
+    
+}
+.div{
+    display: flex;
+    align-items: center;
+
+}
+.logo{
+    width: 50px;
+    border: 100%;
+    background-color: aqua;
+}
+.icons{
+    display: none;
+}
+.a{
+    color: rgba(25, 0, 255, 0.966);
+}
+.b{
+    color:rgb(14, 200, 247) ;
+}
+.c{
+    text-decoration: underline;
+}
+
+.partie1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.paragraphe{
+    display: flex;
+   justify-content: center;
+   width: 100%;
+   flex-direction: column;
+   gap: 10px;   
+}
